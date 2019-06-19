@@ -1,3 +1,3 @@
 console.error("Yass Qween!")
 console.warn("oh she done already had her'ses")
-console.error("Sashay Away")
+console.log("Sashay Away")
